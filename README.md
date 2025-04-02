@@ -2,6 +2,8 @@
 
 create react app using vite
 configure Tailwind css
+Login form
+signup form
 
 # fetatures
 -Login/SIgnup
